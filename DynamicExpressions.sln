@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicExpressions", "DynamicExpressions\DynamicExpressions.csproj", "{8EE5484A-6335-440E-9459-2FE7235D5904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionLogic", "ExpressionLogic\ExpressionLogic.csproj", "{A78D7D34-50C4-4F61-B15D-D29DA026D1B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE5484A-6335-440E-9459-2FE7235D5904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE5484A-6335-440E-9459-2FE7235D5904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE5484A-6335-440E-9459-2FE7235D5904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE5484A-6335-440E-9459-2FE7235D5904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78D7D34-50C4-4F61-B15D-D29DA026D1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78D7D34-50C4-4F61-B15D-D29DA026D1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78D7D34-50C4-4F61-B15D-D29DA026D1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78D7D34-50C4-4F61-B15D-D29DA026D1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D666316A-E919-486D-AAD7-FFEC1402639C}
+	EndGlobalSection
+EndGlobal
